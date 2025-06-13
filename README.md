@@ -10,7 +10,7 @@ A modern, user-friendly Multiplayer Online Quiz Game built for university advanc
 - **Single Player Quiz Mode**
   - Play quizzes solo and track your results
   - Choose from 4 categories: Science, General, Sports, and History
-  - Select the number of questions (5, 10, 20, or 30)
+  - Select the number of questions (5 or 10)
   - Choose difficulty level: Easy, Medium, or Hard
 - **Multiplayer Quiz Mode**
   - Join a real-time multiplayer lobby
@@ -108,15 +108,15 @@ Multi-Player-Quiz-Game/
 ## Screenshots
 
 ```
-![Home Page](Screenshots/home.png)
-![Register Page](Screenshots/register.png)
-![Login Page](Screenshots/login.png)
-![Dashboard Page](Screenshots/dashboard.png)
-![Single Player Page](Screenshots/singlePlayer.png)
-![Quiz Page](Screenshots/Quiz.png)
-![Result Page](Screenshots/result.png)
-![History Page](Screenshots/history.png)
-![Multiplayer Lobby](Screenshots/multiPlayerLobby.png)
+![Home Page](..Screenshots/home.png)
+![Register Page](..Screenshots/register.png)
+![Login Page](..Screenshots/login.png)
+![Dashboard Page](..Screenshots/dashboard.png)
+![Single Player Page](..Screenshots/singlePlayer.png)
+![Quiz Page](..Screenshots/Quiz.png)
+![Result Page](..Screenshots/result.png)
+![History Page](..Screenshots/history.png)
+![Multiplayer Lobby](..Screenshots/multiPlayerLobby.png)
 
 ```
 
