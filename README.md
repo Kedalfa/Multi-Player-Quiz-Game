@@ -107,38 +107,37 @@ Multi-Player-Quiz-Game/
 
 ## Screenshots
 
-```
-<h2> App Screenshots</h2>
 
-<h3> Home Page</h3>
-<img src="https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/home.png?raw=true" width="600"/>
+## 📸 App Screenshots
 
-<h3> Register Page</h3>
-<img src="https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/register.png?raw=true" width="600"/>
+###  Home Page  
+![Home Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/home.png?raw=true)
 
-<h3> Login Page</h3>
-<img src="https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/login.png?raw=true" width="600"/>
+###  Register Page  
+![Register Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/register.png?raw=true)
 
-<h3> Dashboard Page</h3>
-<img src="https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/dashboard.png?raw=true" width="600"/>
+###  Login Page  
+![Login Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/login.png?raw=true)
 
-<h3> Single Player Page</h3>
-<img src="https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/singlePlayer.png?raw=true" width="600"/>
+###  Dashboard Page  
+![Dashboard Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/dashboard.png?raw=true)
 
-<h3> Quiz Page</h3>
-<img src="https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/Quiz.png?raw=true" width="600"/>
+###  Single Player Page  
+![Single Player Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/singlePlayer.png?raw=true)
 
-<h3> Result Page</h3>
-<img src="https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/result.png?raw=true" width="600"/>
+###  Quiz Page  
+![Quiz Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/Quiz.png?raw=true)
 
-<h3> History Page</h3>
-<img src="https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/history.png?raw=true" width="600"/>
+###  Result Page  
+![Result Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/result.png?raw=true)
 
-<h3> Multiplayer Lobby</h3>
-<img src="https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/multiPlayerLobby.png?raw=true" width="600"/>
+###  History Page  
+![History Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/history.png?raw=true)
+
+###  Multiplayer Lobby  
+![Multiplayer Lobby](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/multiPlayerLobby.png?raw=true)
 
 
-```
 
 ---
 
