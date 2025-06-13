@@ -108,15 +108,35 @@ Multi-Player-Quiz-Game/
 ## Screenshots
 
 ```
-![Home Page](Screenshots/home.png)
-![Register Page](Screenshots/register.png)
-![Login Page](Screenshots/login.png)
-![Dashboard Page](Screenshots/dashboard.png)
-![Single Player Page](Screenshots/singlePlayer.png)
-![Quiz Page](Screenshots/Quiz.png)
-![Result Page](Screenshots/result.png)
-![History Page](Screenshots/history.png)
-![Multiplayer Lobby](Screenshots/multiPlayerLobby.png)
+# 📸 App Screenshots
+
+##  Home Page  
+![Home Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/home.png?raw=true)
+
+##  Register Page  
+![Register Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/register.png?raw=true)
+
+##  Login Page  
+![Login Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/login.png?raw=true)
+
+##  Dashboard Page  
+![Dashboard Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/dashboard.png?raw=true)
+
+##  Single Player Page  
+![Single Player Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/singlePlayer.png?raw=true)
+
+##  Quiz Page  
+![Quiz Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/Quiz.png?raw=true)
+
+##  Result Page  
+![Result Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/result.png?raw=true)
+
+##  History Page  
+![History Page](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/history.png?raw=true)
+
+##  Multiplayer Lobby  
+![Multiplayer Lobby](https://github.com/Kedalfa/Multi-Player-Quiz-Game/blob/main/Screenshots/multiPlayerLobby.png?raw=true)
+
 
 ```
 
